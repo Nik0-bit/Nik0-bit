@@ -15,19 +15,3 @@
 </p>
 
 ---
-
-### 🚀 Featured Projects
-- **[Akiro-Labs](https://akiro-labs.com/primary)** — Core automation engine and Web3 utility suite.
-- **[Base-pulse](https://github.com/Nik0-bit/Base-pulse)** — Analytics and transaction tracking tools.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nik0-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nik0's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nik0-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nik0-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-</p>
